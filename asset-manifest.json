@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mercor/static/css/main.c8e156eb.css",
+    "main.js": "/mercor/static/js/main.a7b6e673.js",
+    "static/js/787.4508103f.chunk.js": "/mercor/static/js/787.4508103f.chunk.js",
+    "static/media/logo.svg": "/mercor/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/mercor/index.html",
+    "main.c8e156eb.css.map": "/mercor/static/css/main.c8e156eb.css.map",
+    "main.a7b6e673.js.map": "/mercor/static/js/main.a7b6e673.js.map",
+    "787.4508103f.chunk.js.map": "/mercor/static/js/787.4508103f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8e156eb.css",
+    "static/js/main.a7b6e673.js"
+  ]
+}
