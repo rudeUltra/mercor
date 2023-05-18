@@ -1,7 +1,8 @@
 {
+  
   "name": "mercor",
   "version": "0.1.0",
-  "homepage": "https://rudeUltra.github.io/Mercor-Assignment",
+  "homepage": "https://rudeUltra.github.io/mercor",
   "private": true,
   "dependencies": {
     "@headlessui/react": "^1.7.14",
