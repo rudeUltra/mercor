@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&family=Montserrat:wght@300&display=swap');
+
+
+
+.class1{
+    color: aliceblue;
+    font-weight: bold;
+    font-size: 3.1rem;
+    font-family: 'Montserrat', sans-serif;
+    margin: auto;
+    width: 50%;
+    padding-top: 150px;
+}

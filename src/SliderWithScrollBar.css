@@ -1,0 +1,46 @@
+.slider-with-scrollbar {
+  position: relative;
+  height: 500px;
+  overflow: hidden;
+  width: 600px;
+}
+
+.slider {
+  display: flex;
+  height: 100%;
+  transition: transform 0.3s ease-in-out;
+}
+
+.slide {
+  flex: 0 0 100%;
+  height: 100%;
+}
+
+.scroll-bar {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 10px;
+  background-color: black;
+  cursor: pointer;
+}
+
+.scroll-bar-indicator {
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 100%;
+  background-color: purple;
+  transition: left 0.3s ease-in-out, width 0.3s ease-in-out;
+}
+
+.SIU{
+
+  position: absolute;
+  top: 0;
+  right: 20px; /* Adjust the padding on the right as needed */
+  padding-right: 20px; /* Same value as the right property */
+
+
+}

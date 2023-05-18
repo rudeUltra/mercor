@@ -1,0 +1,35 @@
+.fade-in-text {
+    opacity: 0.3;
+    transition: opacity 1.5s ease-in-out;
+
+
+    color: #adadad;
+    font-weight: bold;
+    font-size: 3.1rem;
+    font-family: 'Montserrat', sans-serif;
+    margin: auto;
+    width: 50%;
+    padding-top: 100px;
+  }
+
+  .title{
+    color: white;
+    font-weight: bold;
+    font-size: 3.1rem;
+    font-family: 'Montserrat', sans-serif;
+    opacity: 1;
+    width: 50%;
+    margin: auto;
+    padding-top: 75px;
+    
+  }
+
+  .line{
+    padding-top: 45px;
+  }
+  
+  .fade-in {
+    opacity: 2;
+    color: white;
+  }
+  
